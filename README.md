@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🔭 **Education:** BTech Computer Science Student
-- 🌱 **Currently Learning:** Python, C Programming & Web Development
+- 🌱 **Currently Learning:** c programming 
 - 💡 **Interests:** Software Engineering, Open Source & Tech Trends
 - 💬 **Ask me about:** Basic programming & college project ideas
 - 🎯 **Goal:** Building impactful tech projects and continuously learning!
